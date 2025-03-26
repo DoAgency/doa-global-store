@@ -10,12 +10,17 @@ You can install `doa-global-store` via npm:
 
 ```bash
 npm install doa-global-store
+```
 
-## Usage for writing global variables
-Use it:
+## Usage
 ```bash
+# Usage for writing global variables
 import { writeGlobalValue, readGlobalValue } from 'doa-global-store';
 writeGlobalValue('valueExemple', 42);
 
 ## Usage for reading global variables
 console.log(readGlobalValue('valueExemple')); // Output: 42
+```
+
+##License
+[MIT](https://choosealicense.com/licenses/mit/)
