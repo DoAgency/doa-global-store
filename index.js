@@ -1,4 +1,4 @@
-const globalStore = {};
+let globalStore = {};
 function writeGlobalValue(key, value) {
   globalStore[key] = value;
 }

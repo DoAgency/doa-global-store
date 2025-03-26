@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Library to quickly and easily manage global variables in a React app",
   "main": "index.js",
+  "types": "index.d.ts",
   "keywords": ["global", "state", "store", "React"],
   "author": "DoAgency",
   "repository": {
