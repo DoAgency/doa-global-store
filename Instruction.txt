@@ -1,0 +1,10 @@
+Install
+npm install doa-global-store
+
+
+Use it:
+import { writeGlobalValue, readGlobalValue } from 'doa-global-store';
+
+writeGlobalValue('valueExemple', 42);
+console.log(readGlobalValue('valueExemple')); // Output: 42
+

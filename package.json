@@ -1,0 +1,13 @@
+{
+  "name": "doa-global-store",
+  "version": "1.0.0",
+  "description": "Library to quickly and easily manage global variables in a React app",
+  "main": "index.js",
+  "keywords": ["global", "state", "store", "React"],
+  "author": "DoAgency",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/DoAgency/doa-global-store.git"
+	},
+  "license": "MIT"
+}
