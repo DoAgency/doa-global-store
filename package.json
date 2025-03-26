@@ -1,6 +1,6 @@
 {
   "name": "doa-global-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library to quickly and easily manage global variables in a React app",
   "main": "index.js",
   "types": "index.d.ts",
