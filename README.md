@@ -22,5 +22,5 @@ writeGlobalValue('valueExemple', 42);
 console.log(readGlobalValue('valueExemple')); // Output: 42
 ```
 
-##License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
